@@ -24,6 +24,7 @@
     <module>organization-service</module>
     <module>zuulsvr</module>
   </modules>
+
   <build>
     <plugins>
       <plugin>
